@@ -6,7 +6,7 @@
 </div>
 
 <p align='center'>
-<a href="https://twitter.com/AceAOH"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/lovefulAce"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/2s6f25qzn6eenrimmbb94ve3k?si=3056f7229cd34707"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
