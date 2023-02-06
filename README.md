@@ -19,7 +19,7 @@
 
 
 <p align="center">
-   <a href="https://twitter.com/AceAOH"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AceAOH?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@AceAOH"></a>
+   <a href="https://twitter.com/lovefulAce"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/lovefulAce?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@lovefulAce"></a>
    <a href="https://visitor-badge.glitch.me/badge?page_id=ace-oh"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=ace-oh"> </a>
  </p>
  
