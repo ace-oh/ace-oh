@@ -22,7 +22,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/HPFnMAD65WGfS/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/RneIcLEosVuta/giphy.gif" />
 <p align="center">
   <h3> I'm 22 years old Student Developers from France. 🇫🇷</h3>
 </p>
@@ -64,13 +64,13 @@
 
 
 
- ### - What i do
+ ### - My work be like...
 
 
 <br />
 
 <p align="center">
-   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" />
+   <img src="https://media.giphy.com/media/GYtblmdLnemlO/giphy.gif" />
    </p>
    
    
