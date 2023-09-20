@@ -39,6 +39,8 @@
 
  - 🛸 1st Year in BTS SIO - Option SLAM (Software solutions and business applications)
 
+<br />
+
 <!--  -->
 
 ### - Stats
