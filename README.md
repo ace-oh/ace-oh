@@ -37,7 +37,7 @@
    
  - 🔭 I hope to become a front-end dev
 
- - 🛸 1st Year in BTS SIO - Option SLAM (Software solutions and business applications)
+ - 🛸 2nd Year in BTS SIO - Option SLAM (Software solutions and business applications)
 
 <br />
 
