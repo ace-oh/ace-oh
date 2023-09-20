@@ -35,11 +35,13 @@
 
 <br />
 
+<br />
+
 <!--  -->
 
-### - Stats
+### - Github Activity
 
-<p align="left" >
+<p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=ace-oh&&show_icons=true&theme=radical"/>
   </a>
