@@ -20,7 +20,7 @@
 
 <p align="center">
    <a href="https://twitter.com/lovefulAce"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/lovefulAce?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@lovefulAce"></a>
-   <a href="https://visitor-badge.glitch.me/badge?page_id=ace-oh"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=ace-oh"> </a>
+   <a href="https://visitor-badge.glitch.me/badge?page_id=ace-oh"> <img alt="visitor count" src="https://visitor-badge.glitch.me/badge?page_id=ace-oh"> </a>
  </p>
  
  <h5 align="center">
@@ -31,22 +31,18 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/HPFnMAD65WGfS/giphy.gif" />
 <p align="center">
-  <h3> I'm 21 years old Student Developers from France. 🇫🇷</h3>
+  <h3> I'm 22 years old Student Developers from France. 🇫🇷</h3>
 </p>
 
- - 🥀 Learning JavaScript, Python & lua
+ - 🥀 Learning JS, PHP, C#, SQL
    
- - 🔭 Beginner Photographer😼
+ - 🔭 
 
  - 🛸 1st Year in BTS SIO - Option SLAM (Software solutions and business applications)
- 
- <p align="center">
-  <h4> Front-end | JavaScript </h4>
-   </p>
 
 <!--  -->
 
-<p align="left" >
+<p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=ace-oh&&show_icons=true&theme=radical"/>
   </a>
