@@ -15,12 +15,6 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Ace | 💻 Student Developers | 🛸 Lille, France <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-
-
-<p align="center">
-   <a href="https://twitter.com/lovefulAce"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/lovefulAce?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@lovefulAce"></a>
-   <a href="https://visitor-badge.glitch.me/badge?page_id=ace-oh"> <img alt="visitor count" src="https://visitor-badge.glitch.me/badge?page_id=ace-oh"> </a>
- </p>
  
  <h5 align="center">
    <i>❤️A ace of heart❤️</i>
